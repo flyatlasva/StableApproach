@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": true,
-      "host": "ops.flyatlas-va.com",
+      "host": "crewhub.fly-atlas.org",
       "target": "/dstable",
       "semver": {
         "min": "1.1.0",
